@@ -9,5 +9,5 @@ steps:
 - name: test
   image: golang
   commands:
-  - go get jparnaut/invoicer-chapter2
+  - go get
   - go test
